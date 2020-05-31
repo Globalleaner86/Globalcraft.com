@@ -1,0 +1,26 @@
+#main-body{
+    width: auto;
+    margin: auto;
+    user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+}
+
+html{
+    width: auto;
+    margin: auto;
+    user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+}
+
+footer{
+    background-color: lightgray;
+}
+
+image{
+    width: auto;
+    margin: auto;
+}
